@@ -1,0 +1,5 @@
+=== ARKNIGHTS RECRUITMENT RESULT ===
+Jumlah Operator: 2
+
+Nama: Logos | Subclass: Core-Caster | Affix: [DPS]
+Nama: Nightmare | Subclass: Core-Caster | Affix: [DPS, Healing, Slow]
